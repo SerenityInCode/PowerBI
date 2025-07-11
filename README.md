@@ -1,5 +1,5 @@
 # PowerBI Project
-# HR Analytics Dashboard – Power BI Project
+# HR Analytics Dashboard
 
 This project is a comprehensive HR analytics dashboard developed as part of the **Power BI Bootcamp by A-leap**, designed to visualize and uncover actionable insights from HR data. The dashboard enables stakeholders to understand workforce composition, hiring trends, and attrition patterns through an intuitive and interactive interface.
 
