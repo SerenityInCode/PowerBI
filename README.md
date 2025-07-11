@@ -34,12 +34,11 @@ This was a **live instructor-led bootcamp** by **A-leap**, where I had the oppor
 ## 📁 Files Included
 
 - `HR_Analytics_Dashboard.pbix` – Main Power BI dashboard file  
-- `Data.xlsx` – Sample dataset used for the dashboard  
+- `Dataset.xlsx` – Sample dataset used for the dashboard  
 - `README.md` – Project documentation
 
 ## 🔗 Dashboard Preview
-
-*(Optional: Add a Power BI Service link or screenshots)*
+![WhatsApp Image 2025-07-04 at 19 16 01](https://github.com/user-attachments/assets/a14b5ade-8a51-4e25-8256-7d651bc2932b)
 
 ## 📬 Let's Connect
 
